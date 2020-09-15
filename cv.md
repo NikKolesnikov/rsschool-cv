@@ -25,3 +25,30 @@ with the necessary knowledge. My goal is to become a front-end developer.
 ### Code examples
 
 At the moment there is nothing, but I have everything ahead.
+
+### Education and Experience
+
+Honestly, knowledge began to take shape only now.
+I work hard every minute of my free time.
+I also hope that pretty soon I will be able to feel comfortable in HTML, CSS and JavaScript.
+
+### Working for Branch of Open Joint-Stock Company "BELAZ" - Holding Company "BELAZ-HOLDING" in Mogilev -  "Mogilev Automobile S.M. Kirov Factory"
+
+#### Engineer for the repair of equipment, buildings and structures
+*September 2014 - June 2016*
+
+#### Head of the bureau of heat supply, ventilation, gas supply and energy consumption
+*August 2016 - June 2020*
+
+#### LLC "Red sun" - specialist of the sales department
+*Jule 2020 - Present*
+
+### Tools
+- GitKraken
+- VScode
+- Photoshop
+- Git Bash
+
+### Languages
+* Russian — Native
+* English — Due to the lack of practice, I find it difficult to answer, but I will make up for this shortcoming.
